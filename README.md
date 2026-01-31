@@ -19,11 +19,6 @@ The analysis used Table 3184, which provides periodic delay minutes by operator 
 * **Organizational Accountability:** Infrastructure issues managed by **Network Rail** accounted for the largest share of delay minutes (**886,905.9**), while **ScotRail’s** own operational issues contributed **636,614.3 minutes**.
 * **Temporal Trends:** Performance data for 2024–2025 highlighted a significant spike in delays during **Period 08**, where total delay minutes peaked at over **100,000**.
 
-## Visualizations
-* **Top 5 Causes of ScotRail Delays:** A bar chart highlighting the dominance of infrastructure-related issues.
-* **High-Level Responsibility Breakdown:** A comparison of total delay minutes attributed to Network Rail vs. ScotRail operations.
-* **2024-2025 Total Delay Minutes Trend:** A chronological view showing performance volatility throughout the financial year, including the major spike in late 2024.
-
 ## Tools & Libraries
 * **Python:** Main language for processing.
 * **Pandas:** Data cleaning, unpivoting, and aggregation.
